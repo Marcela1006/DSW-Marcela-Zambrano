@@ -125,6 +125,9 @@ li:hover {
     padding: 30px;
     grid-column: 2/5;
 }
+.img-container{
+    display: flex;
+}
 
 .contenedor_lateral{
     background-color: rgb(211,180,240);
